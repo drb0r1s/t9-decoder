@@ -33,4 +33,5 @@ hello = **44 33 555 555 666** / text = t9
 **drb0r1s**
 
 *Github:* **drb0r1s**
-*Discord:* **boris**#1171
+*Discord:* **drb0r1s**#9999
+*Email:* **contact@drb0r1s.xyz**
